@@ -53,7 +53,7 @@ I am a passionate Data Science graduate with hands-on experience in Python, SQL,
 
 ## Connect with me
 
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/geeta-bamhane-421689257
 - Email: geetabamhane04@gmail.com
 
 ⭐ Open to Data Analyst, Python Developer and AI/ML Engineer opportunities.
